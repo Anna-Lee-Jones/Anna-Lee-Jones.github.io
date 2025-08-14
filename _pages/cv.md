@@ -9,6 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-CV
 ======
-![](/images/ANNA_CV.pdf)
+![](/images/ANNA_CV.jpg)
