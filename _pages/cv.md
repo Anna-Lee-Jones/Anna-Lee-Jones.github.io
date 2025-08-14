@@ -10,5 +10,5 @@ redirect_from:
 {% include base_path %}
 
 ======
-![](/images/ANNA_CV_1.png)
-![](/images/ANNA_CV_2.png)
+![](images/ANNA_CV_1.png)
+![](images/ANNA_CV_2.png)
