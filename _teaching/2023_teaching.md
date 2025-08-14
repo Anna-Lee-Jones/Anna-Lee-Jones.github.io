@@ -4,7 +4,7 @@ collection: teaching
 type: "Field Course"
 permalink: /teaching/2023_teaching
 venue: "University of Oxford, Department of Biology"
-date: 2021-2023
+date: 2023-01-01
 location: "Wytham, Oxford"
 ---
 
