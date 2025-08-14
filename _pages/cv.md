@@ -10,5 +10,5 @@ redirect_from:
 {% include base_path %}
 
 ======
-
-<object data="images/ANNA_CV.pdf" width="1000" height="1000" type='application/pdf'></object>
+![](images/ANNA_CV_1.png)
+![](images/ANNA_CV_2.png)
