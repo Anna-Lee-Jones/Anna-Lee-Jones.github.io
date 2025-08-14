@@ -1,7 +1,7 @@
 ---
 title: "Field Spectroscopy Teaching Lead"
 collection: teaching
-type: "Undergraduate Field course"
+type: "Field course"
 permalink: /teaching/2025_Teaching
 venue: "University of Oxford, Department of Biology"
 date: 2024-01-01
