@@ -28,7 +28,7 @@ author:
   bio              : "Postdoc @Kromdijk Lab"
   location         : "Cambridge, UK"
   employer         : "University of Cambridge"
-  uri              : # URL
+  uri              : "https://www.plantsci.cam.ac.uk/staff/anna-jones"
   email            : "alj51@cam.ac.uk" 
 
   # Academic websites
@@ -37,9 +37,9 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=hJhwcTIAAAAJ&hl=en&inst=6810896796868835251"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-5748-1664"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
 
@@ -47,7 +47,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "Anna-Lee-Jones"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
