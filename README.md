@@ -1,7 +1,5 @@
 # Academic Pages
-*Harnessing spectral data to understand plants and ecosystems under stress.*
-![Harnessing spectral data to understand plants and ecosystems under stress](https://github-readme-quotes-bay.vercel.app/quote?theme=default&animation=default&layout=socrates&font=default&quoteType=random&bgColor=green&fontColor=black)
-
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark)
 # Getting Started
 
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
