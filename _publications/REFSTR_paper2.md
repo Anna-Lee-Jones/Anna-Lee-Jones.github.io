@@ -3,7 +3,7 @@ title: "Reflections of stress: Ozone damage in broadleaf saplings can be identif
 collection: publications
 category: manuscripts
 permalink: /publication/REFSTR_paper2
-excerpt: 'This paper investigates the effect of elevated CO2 on mature tree leaf reflectance.'
+excerpt: 'This paper investigates the effect of elevated ozone on tree leaf reflectance in saplings under experimental conditions.'
 date: 2024-11-01
 venue: 'Environmental Pollution'
 paperurl: 'http://Anna-Lee-Jones.github.io/files/paper2.pdf'
