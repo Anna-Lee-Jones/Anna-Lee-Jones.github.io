@@ -1,7 +1,6 @@
 # Academic Pages
-**Academic Pages is a GitHub Pages template for personal and professional portfolio-oriented websites.**
-
-![Academic Pages template example](images/homepage.png "Academic Pages template example")
+*Harnessing spectral data to understand plants and ecosystems under stress.*
+![Harnessing spectral data to understand plants and ecosystems under stress](https://github-readme-quotes-bay.vercel.app/quote?theme=default&animation=default&layout=socrates&font=default&quoteType=random&bgColor=green&fontColor=black)
 
 # Getting Started
 
