@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Anna Lee Jones: Plant Scientist, Ecologist, Spectroscopist"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
