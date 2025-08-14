@@ -11,4 +11,4 @@ redirect_from:
 
 CV
 ======
-[](/_images/ANNA LEE JONES CV.png)
+![](/images/ANNA_CV.pdf)
