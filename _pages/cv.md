@@ -9,6 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-======
-![](images/ANNA_CV_1.png)
-![](images/ANNA_CV_2.png)
+
+![CV pdf](http://Anna-Lee-Jones.github.io/files/ANNA_CV.pdf)
