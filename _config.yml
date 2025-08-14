@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-UK"
 site_theme               : "air" # Currently available options are "default", "air"
-title                    : "Your Name / Site Title"
+title                    : "Anna Lee Jones"
 title_separator          : "-"
-name                     : &name "Anna Jones"
+name                     : &name "Anna Lee Jones"
 description              : &description "personal description"
 url                      : https://Anna-Lee-Jones.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,13 +23,13 @@ repository               : "Anna-Lee-Jones/Anna-Lee-Jones.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Anna Lee Jones"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Postdoc @Kromdijk Lab"
+  location         : "Cambridge, UK"
+  employer         : "University of Cambridge"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "alj51@cam.ac.uk" 
 
   # Academic websites
   academia         : # URL
