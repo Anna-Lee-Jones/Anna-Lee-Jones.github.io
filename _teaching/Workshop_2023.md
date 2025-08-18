@@ -1,11 +1,11 @@
 ---
-title: "Field Course Demonstrator"
+title: "Workshop Leader"
 collection: workshop
-type: "Field Course"
+type: "Workshop"
 permalink: /teaching/2023_workshop
-venue: "British Ecological Society Conference 2023"
+venue: "British Ecological Annual Meeting"
 date: 2023-12-15
 location: "Belfast"
 ---
 
-I helped to run a fieldspectroscopy and remote sensing workshop for international attendees of the British Ecological Society 2023 Annual Meeting. This workshop was coordinated by the NERC Field Spectroscopy Facility, and sponsored by Spectra Vista Corporation. 
+I helped to run a field spectroscopy and remote sensing workshop for international attendees of the British Ecological Society 2023 Annual Meeting. This workshop was coordinated by the NERC Field Spectroscopy Facility, and sponsored by Spectra Vista Corporation. 
