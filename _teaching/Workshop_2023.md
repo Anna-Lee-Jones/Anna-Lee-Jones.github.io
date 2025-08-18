@@ -1,7 +1,7 @@
 ---
 title: "Workshop Leader"
 collection: workshop
-type: "Workshop"
+type: "Conference Workshop"
 permalink: /teaching/2023_workshop
 venue: "British Ecological Annual Meeting"
 date: 2023-12-15
